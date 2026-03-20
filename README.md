@@ -1,4 +1,4 @@
-Hi there 👋
+Hi there! 👋
 I am a Computer Science graduate passionate about Python development and Artificial Intelligence.  <br>Currently, I am focused on building real-world projects and improving my skills in Machine Learning and problem-solving.<br><br>🎯 Goal: Start as a Python Developer and grow into an AI Engineer  <br><br><br><br> 🚀 Skills I'm Learning<br><br>- 🐍 Python Development  <br>- 🤖 Artificial Intelligence  <br>- 📊 Machine Learning  <br>- 🧠 Data Structures & Algorithms  <br>- 📚 NumPy, Pandas, Matplotlib  <br>- 🌐 Git & GitHub  <br><br><br>📈 Current Focus<br><br>- Building Python projects  <br>- Learning Machine Learning step-by-step  <br>- Improving problem-solving skills  <br><br><br> 📫 Connect With Me<br><br>- LinkedIn: piyushlandge04<br>- Email: piyushlandge4444@gmail.com
 
 
